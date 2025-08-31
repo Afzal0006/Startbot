@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # === CONFIG ===
-TOKEN = "YOUR_BOT_TOKEN"  # BotFather se mila token
+TOKEN = "8423240758:AAHx5JLyKDibaZbiq05UiNXrSdWcZG7zI48"  # BotFather se mila token
 target_channel = "@SexyEmoji"  # jaha logs save karne hain
 OWNER_ID = 123456789  # apna Telegram ID yaha dalna
 
